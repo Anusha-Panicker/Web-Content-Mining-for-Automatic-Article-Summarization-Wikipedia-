@@ -627,6 +627,5 @@ The project provides an interpretable, modular, and practical implementation of 
 
 ---
 
-⭐ **If you found this project interesting, consider giving the repository a star!**
+### 🚀 End-to-End Web Content Mining & NLP Project
 
-ROUGE-L Evaluation
