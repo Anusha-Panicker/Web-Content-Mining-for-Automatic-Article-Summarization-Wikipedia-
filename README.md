@@ -12,7 +12,6 @@
 ## 👩‍💻 Author
 
 **Anusha Panicker**
-**Reg. No.:** UST24R0101006
 **Subject:** Data Mining & Warehousing (DMW) — CA 1
 
 ---
